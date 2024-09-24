@@ -1,13 +1,12 @@
 # License
 
-**Nik Tyresens Battery of Cognitive Tasks Programmed in PsychoPy** (
-[https://github.com/ntyresen/PsychoPy_Cognitive_Tasks_NT]) by Nik Tyresen ([https://github.com/ntyresen]) is licensed under **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)** license.
+**[Nik Tyresens Battery of Cognitive Tasks Programmed in PsychoPy](https://github.com/ntyresen/PsychoPy_Cognitive_Tasks_NT)**  by [Nik Tyresen](https://github.com/ntyresen) is licensed under **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)** license.
 
 # Explanation in plain English
 
 You are free to view, use, share and/or adapt this material for non-commercial purposes (e.g., your academic project) as long as you cite me and the repository page, and as long as you license your resulting work under the same terms (if you share your work).
 
-There is no warranty of any kind given by me or anyone else on software code---use it at your own risk and peril (as the license terms put it, this is as much as possible "absolute disclaimer and waiver of all liability").
+There is no warranty of any kind given by me or anyone else on software code&mdash;use it at your own risk and peril (as the license terms put it, this is as much as possible "absolute disclaimer and waiver of all liability").
 
 # Remarks
 
@@ -25,4 +24,4 @@ Reasonable attempts have been made to ensure that content of this repository is 
 
 The primary software used in developing the tasks in this repository is [PsychoPy](https://www.psychopy.org/), copyright Jonathan Peirce and Open Science Tools Ltd.
 
-Peirce, J. W., Gray, J. R., Simpson, S., MacAskill, M. R., Höchenberger, R., Sogo, H., Kastman, E., Lindeløv, J. (2019). PsychoPy2: experiments in behavior made easy. *Behavior Research Methods, 51*, 195--203. [https://doi.org/10.3758/s13428-018-01193-y]
+Peirce, J. W., Gray, J. R., Simpson, S., MacAskill, M. R., Höchenberger, R., Sogo, H., Kastman, E., Lindeløv, J. (2019). PsychoPy2: experiments in behavior made easy. *Behavior Research Methods, 51*, 195&ndash;203. https://doi.org/10.3758/s13428-018-01193-y

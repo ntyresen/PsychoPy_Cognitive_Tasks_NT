@@ -8,6 +8,6 @@ The reason for developing these tasks is twofold: to create piloted and tested i
 
 To cite this work, use:
 
-Tyresen, N. B. (2024). *Nik Tyresens battery of cognitive tasks programmed in PsychoPy*. [https://github.com/ntyresen/PsychoPy_Cognitive_Tasks_NT]
+Tyresen, N. B. (2024). *Nik Tyresens battery of cognitive tasks programmed in PsychoPy*. https://github.com/ntyresen/PsychoPy_Cognitive_Tasks_NT
 
 Remember to also cite relevant literature introducing and/or describing the individual tasks.
